@@ -1,5 +1,5 @@
 # 💫 About Me:
-PHP Developer with 6+ years of experience <br>building scalable, secure, and high-performance <br>applications using PHP, Laravel, Yii2, CodeIgniter, <br>Laminas, JavaScript, and MySQL. Strong in REST <br>API development, multi-tenant architecture, <br>debugging, optimization, and automation using <br>Puppeteer, Docker & Composer. Experienced in <br>international client projects and delivering clean, <br>maintainable code. 
+PHP Developer with 6+ years of experience building scalable, secure, and high-performance applications using PHP, Laravel, Yii2, CodeIgniter, Laminas, JavaScript, and MySQL. Strong in REST API development, multi-tenant architecture, debugging, optimization, and automation using Puppeteer, Docker & Composer. Experienced in international client projects and delivering clean, maintainable code. 
 
 
 ## 🌐 Socials:
